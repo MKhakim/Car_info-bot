@@ -1,0 +1,909 @@
+Model Name,Model ID
+Vellfire,0
+Alphard,1
+Estima,2
+3303,3
+K5,4
+001,5
+Range Rover,6
+Range Rover Sport,7
+Challenger,8
+Tacoma,9
+A5,10
+Hatch,11
+Cayenne,12
+Grand Cherokee,13
+Quattroporte,14
+X5 M,15
+E 220,16
+Elantra,17
+Carina E,18
+Highlander,19
+Sonata,20
+Land Cruiser Prado,21
+100,22
+E 320,23
+Montero Sport,24
+C 180,25
+Concerto,26
+2114,27
+Terrano,28
+Patrol,29
+X5,30
+X6,31
+Cronos,32
+Outback,33
+CLS 55 AMG,34
+Cefiro,35
+LX 570,36
+S 500,37
+Camry,38
+SX4,39
+Panamera,40
+Teana,41
+S 63 AMG,42
+Land Cruiser,43
+Priora 2170,44
+Cruze,45
+Transporter,46
+C 280,47
+E 260,48
+525,49
+Accent,50
+Avensis,51
+GLE 63 AMG,52
+Mustang,53
+Starex,54
+GS 350,55
+540,56
+Escalade,57
+X-Trail,58
+Discovery Sport,59
+e:NS1,60
+Han,61
+Legacy,62
+ML 350,63
+Sorento,64
+Corolla,65
+RX 350,66
+Santa Fe,67
+M-NV,68
+3,69
+X2,70
+E 200,71
+Vectra,72
+740,73
+X,74
+ID.4,75
+Maxima,76
+Outlander,77
+QX80,78
+Tundra,79
+GS 300,80
+Delica,81
+4Runner,82
+E 350,83
+S60,84
+Golf,85
+Eado,86
+G80,87
+ASX,88
+CLS 350,89
+Staria,90
+Soul,91
+530,92
+RAV 4,93
+ES 250,94
+GAZel',95
+Hunter,96
+Impreza,97
+RX 300,98
+NX 350,99
+K8,100
+Passat,101
+Pajero,102
+X4,103
+Windom,104
+Rexton,105
+Celica,106
+Tucson,107
+Grandeur,108
+Omega,109
+Bongo,110
+Eletre,111
+Free,112
+320,113
+Solaris,114
+LS 460,115
+E 53 AMG,116
+A8,117
+Forester,118
+190,119
+E-HS9,120
+CX-5,121
+528,122
+Transit,123
+GX 470,124
+Sportage,125
+Macan,126
+A6,127
+Elysion,128
+318,129
+S 350,130
+Q7,131
+XC90,132
+Nexia,133
+A4,134
+Multivan,135
+Cee’d,136
+Spark,137
+Hilux,138
+ML 500,139
+E 280,140
+750,141
+ID.6,142
+Creta,143
+Palisade,144
+Sprinter,145
+428,146
+X7,147
+K7,148
+Discovery,149
+Avante,150
+Rio,151
+Polo,152
+E 230,153
+Touareg,154
+Galant,155
+Pajero IO,156
+Tiida,157
+Model Y,158
+GLE Coupe 400,159
+XJ,160
+Jetta,161
+Sienna,162
+E 250,163
+Phaeton,164
+Caddy,165
+S 400,166
+550,167
+RX 330,168
+ML 63 AMG,169
+X6 M,170
+K3,171
+Superb,172
+Baleno,173
+CR-V,174
+LX Luxury,175
+TXL Flagship,176
+VX Premium,177
+LX,178
+TXL Premium,179
+Grand Vitara,180
+Patriot,181
+Qashqai,182
+009,183
+11,184
+i7,185
+LS7,186
+ID.4 Crozz Prime,187
+Z,188
+L7,189
+Dream,190
+001 WE 4WD,191
+L9,192
+EQC 400 4MATIC,193
+001 YOU,194
+Model Y Performance,195
+Qin,196
+Seal,197
+Flying Spur,198
+G 63 AMG,199
+A3,200
+S 55,201
+2110,202
+NX 300,203
+626,204
+Space Runner,205
+Chance,206
+L200,207
+FX37,208
+Xterra,209
+G35,210
+Ipsum,211
+GLE Coupe 53 AMG,212
+Alpha,213
+Cobalt,214
+Avalon,215
+Primera,216
+535,217
+80,218
+ES 350,219
+735,220
+Rio X-Line,221
+Model 3,222
+Cerato,223
+Chaser,224
+Range Rover Velar,225
+Zafira,226
+2106,227
+Lancer,228
+Nomad,229
+LX 600,230
+GV70,231
+C 220,232
+RVR,233
+E 240,234
+Chariot,235
+Aristo,236
+6,237
+Hilux Surf,238
+Optima,239
+S 320,240
+Taycan,241
+Damas,242
+Picanto,243
+Mondeo,244
+Duster,245
+E 500,246
+Rogue,247
+Freelander,248
+UNI-K,249
+CLA 200,250
+840,251
+Celerio,252
+Space Wagon,253
+Juke,254
+Town Ace,255
+Yeti,256
+Porter,257
+S 450,258
+RX 200t,259
+G 320,260
+CLS 500,261
+C 230,262
+RX 270,263
+Gentra,264
+Stinger,265
+H-1,266
+ML 400,267
+Stream,268
+E 450,269
+Tiguan,270
+Cayenne Coupe,271
+Yuan,272
+QX50,273
+Chana SC6350S,274
+Matiz,275
+Jazz,276
+Priora 2172,277
+Murano,278
+Sharan,279
+HiAce,280
+520,281
+Picnic,282
+Kalina 2192,283
+F-Series,284
+UNI-T,285
+S3,286
+Mark II,287
+Xpander,288
+M35,289
+K9,290
+Malibu,291
+Actyon,292
+bZ4X,293
+Accord,294
+Caravelle,295
+Amarok,296
+Odyssey,297
+S 550,298
+XV,299
+2109,300
+LX 470,301
+2107,302
+EQE,303
+Almera,304
+Civic,305
+F7x,306
+FJ Cruiser,307
+Note,308
+Defender,309
+Xpander Cross,310
+G 55 AMG,311
+A 220,312
+Carnival,313
+NX 200,314
+ES 330,315
+GLS 580,316
+Previa,317
+GX 460,318
+2121 Niva,319
+301,320
+H2,321
+Q5,322
+Largus,323
+Pilot,324
+Focus,325
+Morning,326
+Granta 2190,327
+3162,328
+Priora 2171,329
+XT6,330
+323,331
+G 500,332
+Kalina 1118,333
+Ray,334
+Jolion,335
+Impreza XV,336
+iX,337
+Navigator,338
+Veloster,339
+i4,340
+M5,341
+Teramont,342
+QX80 Luxe,343
+QX60,344
+QX55 Luxe,345
+Pathfinder,346
+JS6,347
+Bayon,348
+Crafter,349
+Signum,350
+Q8,351
+F3,352
+Ram,353
+Crown,354
+ES 300,355
+Caldina,356
+C-HR,357
+e-tron,358
+i3,359
+EQC,360
+ID.3,361
+e-Golf,362
+Q5 e-tron,363
+Model S,364
+V 300,365
+V 300 Avantgarde,366
+Hilux Adventure,367
+M235,368
+Telluride,369
+V 250 Avantgarde,370
+X7 XDrive 40i,371
+Model S Plaid,372
+G 63 AMG 4MATIC,373
+Highlander Luxe,374
+S 580 4MATIC,375
+EQS SUV,376
+Model X,377
+Taycan Turbo S,378
+Altima,379
+Compass,380
+R'nessa,381
+GAZel' NEXT,382
+R4,383
+1024,384
+Captiva,385
+650,386
+Express,387
+M4,388
+Capella,389
+GS 450h,390
+E 63 AMG,391
+Traverse,392
+Fortuner,393
+Kyron,394
+QX56,395
+Micra,396
+G 350,397
+Fiesta,398
+Vito,399
+Partner,400
+328,401
+One,402
+Urus,403
+Mark II Qualis,404
+21099,405
+Camaro,406
+Samsung SM6,407
+X60,408
+3151,409
+GLS 400,410
+Geometry A GE11,411
+Samsung QM6,412
+Passat CC,413
+Prairie Joy,414
+QX70,415
+E 300,416
+MB 100,417
+Tiggo 8 Pro,418
+630,419
+CLS 550,420
+XRAY,421
+ForTwo,422
+Terracan,423
+Largus Cross,424
+Bei Haise,425
+,426
+Sirion,427
+Passo,428
+T6,429
+Emgrand EC7,430
+GLE Coupe 63 AMG,431
+Elgrand,432
+C4,433
+Estima Emina,434
+2115,435
+Aerio,436
+i30,437
+5,438
+Yaris Verso,439
+Monjaro,440
+Carina II,441
+Sequoia,442
+Venza,443
+Nexia R3,444
+RX 450h,445
+730,446
+ES 200,447
+Jimny,448
+A 200,449
+Golf Plus,450
+XE,451
+325,452
+A7,453
+GL 500,454
+Arrizo 5,455
+Continental GT,456
+Astra,457
+XF,458
+E 430,459
+Presage,460
+Bentayga,461
+Seltos,462
+Charger,463
+Land Cruiser 70,464
+GS 430,465
+Coolray,466
+Coolray Flagship,467
+Element,468
+Cayman,469
+Chairman,470
+Range Rover Evoque,471
+C 200,472
+Corolla Verso,473
+V 250,474
+X3,475
+CLK 230,476
+Yaris,477
+FX50,478
+Tahoe,479
+Arkana,480
+Swift,481
+E 55 AMG,482
+Vento,483
+CLS 53 AMG,484
+Sunny,485
+RDX,486
+Wizard,487
+Octavia,488
+Corona Exiv,489
+GLS 450,490
+640,491
+Space Gear,492
+Phantom,493
+X1,494
+De Ville,495
+GL 63 AMG,496
+24,497
+Rapid,498
+M240,499
+E 420,500
+Viano,501
+FX35,502
+Magentis,503
+Starlet,504
+JS4,505
+Tracker,506
+220,507
+QX4,508
+Rush,509
+Buhanka,510
+GLE Coupe 43 AMG,511
+Diamante,512
+WRX STi,513
+U,514
+A6 allroad,515
+CLA 45 AMG,516
+Mirage,517
+Harrier,518
+LS 430,519
+GLC Coupe 300,520
+Camry Gracia,521
+GLE Coupe 450 AMG,522
+Fabia,523
+EQS,524
+Auchan A600 EV,525
+Seagull,526
+Matrix,527
+GLS 63 AMG,528
+Skyline,529
+Sunshine,530
+Grand Hiace,531
+Equinox,532
+Explorer,533
+GV80,534
+V90,535
+XRAY Cross,536
+Eclipse Cross,537
+GLK 300,538
+Getz,539
+Luce,540
+Tribute,541
+Pegas,542
+Prius,543
+NX 250,544
+R 63 AMG,545
+Bestune T77,546
+A 170,547
+TrailBlazer,548
+G37,549
+S 300,550
+Aveo,551
+340,552
+330,553
+310221,554
+ES 300h,555
+A 160,556
+Tribeca,557
+Stepwgn,558
+Almera Tino,559
+E 400,560
+Tino,561
+Ducato,562
+GLS 500,563
+Pajero Sport,564
+L300,565
+IS 350,566
+Carisma,567
+2131,568
+GS 250,569
+Venue,570
+3110,571
+Cresta,572
+Bingo,573
+R2,574
+Sentra,575
+CX-7,576
+Crown Majesta,577
+Cadenza,578
+ix35,579
+Model Y Long Range,580
+Raize,581
+Lavita,582
+ML 320,583
+Cee’d Prestige,584
+Cerato Premium,585
+Mulsanne,586
+Yukon,587
+Kalina 2194,588
+Campo,589
+X70,590
+i8,591
+HR-V,592
+Mohave,593
+Q70,594
+Benben E-Star,595
+Lancer Evolution,596
+C 36 AMG,597
+Model 3 Standart Range,598
+iX3,599
+RS 5,600
+Q5 Sportback,601
+A4 allroad,602
+Q5 45 TFSI Quattro,603
+A6 45 TFSI Quattro,604
+e-tron 55 Quattro,605
+M3,606
+Scirocco,607
+D-Max,608
+Countryman,609
+Elantra Comfort,610
+Tang,611
+911,612
+Prelude,613
+206,614
+XC60,615
+Elantra Base Plus,616
+K5 GT Line,617
+Azkarra Luxury 4WD,618
+ASX Instyle 4WD Black Edition,619
+M6,620
+Bayon Style,621
+Azkarra Luxury 2WD,622
+Monjaro Flagship,623
+Lacetti,624
+Fusion,625
+ID.6 Pro,626
+Cee’d Luxe,627
+Kangoo,628
+Camry Prestige,629
+Corolla Cross,630
+Camry Comfort,631
+Sonata Style,632
+Terios,633
+Tiggo 8 Pro Max,634
+Bayon High-Tech,635
+Kaptur,636
+C5 Premium 1.5T,637
+C5 Comfort 1.6T,638
+C5 Premium 1.6T,639
+C5 Comfort 1.5T,640
+Monjaro Premium,641
+Navara,642
+K9 Premium,643
+Beetle,644
+Familia,645
+A 180,646
+CT 200h,647
+A 45 AMG,648
+SLK 200,649
+UNI-V Tech,650
+S80,651
+Azkarra Flagship,652
+Tugella Flagship,653
+Escalade Sport Platinum ESV,654
+X70 Plus,655
+IS 300,656
+Granta 2191Classic Optima,657
+Cerato Prestige,658
+Escalade Luxury,659
+2410,660
+EV6,661
+523,662
+Ertiga,663
+316,664
+Cerato GT Line,665
+VX Flagship,666
+L200 Instyle,667
+J7,668
+Azkarra Comfort,669
+CS35,670
+Millenia,671
+XT6 Sport Platinum,672
+G70,673
+G 300,674
+CS75,675
+Picanto GT Line,676
+XT4,677
+Trooper,678
+Eclipse Cross Instyle,679
+Eclipse Cross Intense,680
+Teramont Status,681
+Passat Business 2.0 TSI,682
+LX 450,683
+335,684
+Cee’d Comfort,685
+S 600,686
+Azkarra Flagship+,687
+Solara,688
+Elantra Elegance,689
+Escalade Premium Luxury Platinum ESV,690
+XT5 Sport,691
+Farizon FX,692
+Verso,693
+S 380,694
+Vesta SW Cross,695
+EV6 Earth,696
+Mark X Zio,697
+Sonata Active Plus,698
+Sprinter Carib,699
+Granta 2191,700
+RS 6,701
+GLC 300,702
+Escalade Sport,703
+Vesta,704
+Gaia,705
+Sonata Travel,706
+Oley,707
+UX 250h,708
+K5 Comfort,709
+Granada,710
+401,711
+21,712
+Carina ED,713
+Tivoli,714
+Bayon Prime,715
+Niva,716
+Grandis,717
+31105,718
+AMG GT 43,719
+Voxy,720
+Bora,721
+Escalade Sport Platinum,722
+Elantra Style,723
+AMG GT 53,724
+Almera Classic,725
+Vitara,726
+Raum,727
+MPV,728
+C 240,729
+Duster Life 1.6 MT,730
+Granta 2190Classic Optima,731
+Kaptur Style,732
+SQ8,733
+Arkana Drive,734
+Duster Life TCE,735
+QX55,736
+QX50 Luxe,737
+Tiggo 4 Pro,738
+S8,739
+Tiggo 7 Pro,740
+Wrangler,741
+RX 400h,742
+L200 DC Invite+,743
+ASX Invite 2WD,744
+M760,745
+S 580,746
+Corsa,747
+Durango,748
+XCeed Luxe,749
+IS 250,750
+B-series,751
+Estima Lucida,752
+Sandero Stepway,753
+S2000,754
+Zafira Life,755
+HiAce Regius,756
+S-Type,757
+Beijing X7,758
+Continental Flying Spur,759
+RX 500h,760
+440,761
+728,762
+Atlas,763
+Tunland,764
+Logan,765
+Onix Premier 2,766
+Tucson Travel 2.0 AT 4WD,767
+Cobalt Optimum AT,768
+K5 Prestige,769
+GLE 300,770
+CS55 Plus,771
+Terrano II,772
+RZ 450e,773
+GLE 53 AMG,774
+GLC Coupe 43 AMG,775
+Sonata Active,776
+F-Pace,777
+XT6 Premium Luxury,778
+G 400,779
+Largo,780
+T80,781
+F7,782
+NX 200t,783
+Silver Cloud,784
+Legacy Lancaster,785
+Mark X,786
+Wingroad,787
+C 43 AMG,788
+V 220,789
+S 680 4MATIC,790
+Svjatogor,791
+Ranger,792
+407,793
+S30,794
+Martin DB9,795
+View,796
+i40,797
+2102,798
+2108,799
+Versa,800
+Orthia,801
+Dargo,802
+Punto,803
+Spectra,804
+Taurus,805
+Vista Ardeo,806
+Fit,807
+Sephia,808
+31029,809
+Pajero Junior,810
+Nadia,811
+Caravan,812
+S 280,813
+Prairie,814
+Escort,815
+Pony,816
+Vitz,817
+S 560,818
+H6,819
+Sprinter Marino,820
+850,821
+Impreza WRX STi,822
+745,823
+Rafaga,824
+Cherokee,825
+Sobol',826
+Tiburon,827
+J5,828
+469,829
+X-Type,830
+2103,831
+Saber,832
+Taos,833
+Veloz,834
+Premacy,835
+Trax,836
+Galloper,837
+2101,838
+F-Type,839
+IS 200,840
+S 430,841
+Pulsar,842
+Town Car,843
+NP300,844
+Tiggo 5,845
+BRZ,846
+Sedona,847
+e-Bora,848
+CLA 250,849
+Safari,850
+Vaneo,851
+Bluebird,852
+Scepter,853
+PT Cruiser,854
+DZire,855
+GL 550,856
+308,857
+Granvia,858
+Insignia,859
+Vesta SW,860
+Song,861
+Samsung SM3,862
+B 180,863
+69,864
+Atos,865
+Escalade ESV,866
+Xedos 9,867
+Coupe,868
+645,869
+Noah,870
+Solano,871
+Forte,872
+Stealth,873
+350,874
+Wall Hover M4,875
+Demio,876
+Land Cruiser Premium,877
+Corolla Levin,878
+GS 200t,879
+Gladiator,880
+H3,881
+Meriva,882
+Q3,883
+Avella,884
+XT5 Premium Luxury,885
+GLC 250,886
+Vivaro,887
+Frontera,888
+LT,889
+Auris,890
+S5,891
+SLK 230,892
+Sorento Luxe,893
+ML 270,894
+Tugella,895
+Victor,896
+C 300,897
+CLS 400,898
+6390,899
+Magnum,900
+Teramont Respect,901
+GLE 400,902
+C 320,903
+SL 55 AMG,904
+Epica,905
+Vibe,906
+Taos Respect MT,907
